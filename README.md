@@ -1,2 +1,2 @@
 # r-keywords
-A r application that extracts keywords out of video subtitles
+R application that extracts keywords out of video subtitles
